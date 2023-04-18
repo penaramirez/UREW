@@ -1,1 +1,3 @@
 # UREW
+
+This repository contains R implementations related to the paper "The unit ratio-extended Weibull family and the dropout rate in Brazilian undergraduate courses" by Peña-Ramírez, Guerra, and Mafalda (2023), including the implementation of the introduced new family of distributions: The unit ratio-extended Weibull (UREW). The paper proposes a novel approach to modeling the dropout rate in Brazilian undergraduate courses and provides detailed descriptions of the methodology and results. If you have any questions or issues, please contact Fernando A. Peña-Ramírez (fernando.p.ramirez@ufsm.br). This repository is maintained by Fernando A. Peña-Ramírez.
