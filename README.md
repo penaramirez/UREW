@@ -7,7 +7,7 @@
   <h2> The repository </h2> 
 </div>
 
-This repository contains the R implementations and data sets used in the paper entitled "The unit ratio-extended Weibull family of distributions and applications in educational data," which is currently being submitted to PLOS ONE.
+This repository contains the R implementations and data sets used in the paper entitled "The unit ratio-extended Weibull family of distributions and applications in educational data," which is currently being submitted to PLOS ONE journal.
 
 <div>
   <h2> Data source and description </h2> 
